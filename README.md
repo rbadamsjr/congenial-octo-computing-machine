@@ -1,2 +1,2 @@
 # congenial-octo-computing-machine
-## (Auto generated name LOL)
+(Auto generated name LOL)
